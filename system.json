@@ -1,0 +1,18 @@
+{
+  "id": "crown-and-skull",
+  "title": "Crown & Skull",
+  "description": "An unofficial FoundryVTT Crown & Skull rules module",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "maximum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Jonathan Dorety",
+      "url": "https://dorety.dev",
+      "email": "jonathan.dorety@gmail.com"
+    }
+  ]
+}
